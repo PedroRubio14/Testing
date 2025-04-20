@@ -1,4 +1,4 @@
-package JavaTesting;
+package JavaTesting.Video2;
 import org.junit.jupiter.api.Test;
 
 
